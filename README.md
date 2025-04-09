@@ -1,4 +1,4 @@
-# HouseAnywhere
+# HousingAnywhere
 
 Take Home Assessment
 This assessment is meant to evaluate the candidate’s business acumen as well as their
